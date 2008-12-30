@@ -63,10 +63,10 @@ it "should inject by string reference", {
 
 
 
-/* Fails on an outdated easyb library that BuildR 1.3.3 gets...
+/* Fails on an outdated easyb library that BuildR 1.3.3 gets...*/
 it "should throw an exception on an unknow injection reference", {
     C c = new C()
     ensureThrows(InvalidInjectionReferenceException) {
         injector.inject(c)
     }
-}*/
+}
