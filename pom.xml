@@ -4,9 +4,9 @@
     <groupId>jponge</groupId>
     <artifactId>tinyinjector</artifactId>
     <packaging>jar</packaging>
-    <version>0.0-SNAPSHOT</version>
+    <version>0.1-SNAPSHOT</version>
     <name>TinyInjector</name>
-    <url>http://maven.apache.org</url>
+    <url>http://github.com/jponge/tinyinjector/tree/master</url>
     <dependencies/>
     <build>
         <plugins>
